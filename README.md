@@ -37,7 +37,7 @@ For advanced user, you can use the repository: see the [Using git repository](ht
 
   * STM8S
     * [Nucleo STM8S208RB](https://www.st.com/en/evaluation-tools/nucleo-8s208rb.html)
-    * [Stm8s103f3p6 -Generic (Added by FakirMaker)](banggood.com/STM8S103F3P6-System-Board-STM8S-STM8-Development-Board-Minimum-Core-Board-p-1195874.html?utm_source=google&utm_medium=cpc_ods&utm_content=nancy&utm_campaign=nancy-eu1-sds-mt-cont-clock-content&ad_id=274777801403&gclid=CjwKCAiAl4WABhAJEiwATUnEF1ilu2ExrJpM4tOB308Ox_28JBqPQVNWrVgUvk5-ZCl_DEbFaA1T4xoCzZUQAvD_BwE&cur_warehouse=CN)
+    * [Stm8s103f3p6 -Generic (Added by FakirMaker)](https://www.ebay.com/itm/Micro-Mini-System-Development-Board-Module-ARM-STM8S103F3P6-STM8-Fr-Arduino/402643185491?hash=item5dbf676f53:g:OIIAAOSwLgpf~bMxN)
 
 
 ## Troubleshooting and known issues
